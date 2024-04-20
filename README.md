@@ -9,7 +9,7 @@ The code in this toolbox implements ["Structured Joint Sparse Orthogonal Nonnega
 Directly run demo_SJSONMF.m for reproduction.
 
 ### Citation
-Please give credit to this paper if this code is useful and helpful for your research.
+Please give credits to this paper if this code is useful and helpful for your research.
 
      @article{sun2023learning,
       title     = {Structured Joint Sparse Orthogonal Nonnegative Matrix Factorization for Fault Detection},
