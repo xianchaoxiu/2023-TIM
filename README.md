@@ -1,6 +1,9 @@
 # SJSONMF
 
-The code in this toolbox implements ["Structured Joint Sparse Orthogonal Nonnegative Matrix Factorization for Fault Detection"](https://ieeexplore.ieee.org/abstract/document/10091146). 
+The code in this toolbox implements ["Structured Joint Sparse Orthogonal Nonnegative Matrix Factorization for Fault Detection"](https://ieeexplore.ieee.org/document/10036023). More specifically, the abstract is given as follows. 
+
+As modern industrial processes become complicated, and some faults are difficult to be detected due to noises and nonlinearity of data, data-driven fault detection (FD) has been extensively used to detect abnormal events in functional units. To obtain better FD performance of nonnegative matrix factorization (NMF), this article first proposes an FD method using the structured joint sparse orthogonal NMF (SJSONMF). The core idea is to incorporate the graph regularization, sparsity, and orthogonality constraints into the classical NMF, which enjoys stronger discriminative ability, removes redundancy of different basis vectors, and improves fault interpretability. More importantly, an optimization algorithm based on the proximal alternating nonnegative least squares (PANLS) is developed, which can guarantee and speed up the convergence. Finally, the effectiveness of the proposed method is demonstrated by the experiments on the benchmark Tennessee Eastman Process (TEP) and two practical bearing datasets. Particularly, compared with the classical NMF, the T2 statistic has a gain of 33.13% for the fault IDV(16) on the TEP. The results show that the proposed model and algorithms are promising for FD.
+
 
 
 
