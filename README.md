@@ -1,6 +1,6 @@
 # SJSONMF
 
-The code in this toolbox implements ["Structured Joint Sparse Orthogonal Nonnegative Matrix Factorization for Fault Detection"](https://ieeexplore.ieee.org/document/10036023) by <i>X. Zhang, X. Xiu, and C. Zhang<i>.
+The code in this toolbox implements ["Structured Joint Sparse Orthogonal Nonnegative Matrix Factorization for Fault Detection"](https://ieeexplore.ieee.org/document/10036023) by <i>X. Zhang, X. Xiu, C. Zhang<i>.
 
 ### Testing
 Directly run demo_SJSONMF.m for reproduction.
